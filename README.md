@@ -9,7 +9,7 @@ JSONPlaceholder é uma API Rest online e gratuita onde você pode consumir infor
 #### # Lodash
 Uma biblioteca para javascript que vai te ajudar a manter um código bem menos verboso. Você pode ler um pouco mais sobre o lodash [aqui](https://lodash.com/) e [neste artigo.](https://medium.com/codigorefinado/limpando-seu-c%C3%B3digo-javascript-com-lodash-93ca10f3f1fe)
 
-#### # Como ficou
+#### # Tela
 
 ![image](https://user-images.githubusercontent.com/42384045/64382328-d186c980-d00b-11e9-81f9-500992869ef8.png)
 
