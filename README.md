@@ -1,4 +1,4 @@
-Projeto usando React a fim de consumir uma API externa usando os conceitos de Redux e Redux-thunk. 
+Projeto usando React a fim de consumir uma API externa usando os conceitos de Redux e Redux-thunk. Aqui conseguimos simular problemas comuns em projetos reais: Consumir uma API REST e efetuar subQueries a fim de consumir - de maneira performática - end-points de acordo com os registros encontrados.
 
 #### # Redux-thunk
 Quando consumimos alguma informação via API Rest, precisamos utilizar procedimento assíncrono. Com isso, alguns problemas surgem ao utilizar o Redux puro. Para isso, podemos utilizar o Redux-thunk a fim de resolver esse problema. Você pode ler um pouco mais [aqui.](https://medium.com/@User3141592/understanding-the-redux-thunk-source-code-b3f8b930faf6)
